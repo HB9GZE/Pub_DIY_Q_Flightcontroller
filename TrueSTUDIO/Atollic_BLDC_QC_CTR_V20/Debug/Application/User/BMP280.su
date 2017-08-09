@@ -1,0 +1,7 @@
+BMP280.c:25:6:write8	16	static
+BMP280.c:33:9:read8	24	static
+BMP280.c:39:6:BMP280_Init	24	static
+BMP280.c:62:6:readPandT	16	static
+BMP280.c:68:8:calcDoubleBMP280Temperature	32	static
+BMP280.c:79:8:calcDoubleBMP280Pressure	32	static
+BMP280.c:98:8:calcDoubleBMP280Altitude	8	static

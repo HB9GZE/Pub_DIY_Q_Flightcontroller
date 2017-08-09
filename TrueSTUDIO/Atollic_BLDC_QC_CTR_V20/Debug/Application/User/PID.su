@@ -1,0 +1,4 @@
+PID.c:12:6:setPIDFactors	20	static
+PID.c:32:6:ComputePIDRoll	56	static
+PID.c:53:6:ComputePIDPitch	56	static
+PID.c:74:6:ComputePIDYaw	56	static
